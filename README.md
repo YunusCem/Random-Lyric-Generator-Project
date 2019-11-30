@@ -1,9 +1,9 @@
-Final Project for EECE 5644
+#Final Project for EECE 5644
 
-The repository is formed in the following fashion:
+##The repository is formed in the following fashion:
 
 
-We would like to thank the following people for their code:
+###We would like to thank the following people for their code:
 
 Max Woolf [minimaxir](https://github.com/minimaxir) whose [text generating neural network](https://github.com/minimaxir/textgenrn) we used.
 
