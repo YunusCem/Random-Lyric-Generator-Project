@@ -1,0 +1,14 @@
+ SilhouetteEvaluation with properties:
+
+    NumObservations: 100
+         InspectedK: [1 2 3 4 5 6 7 8 9 10]
+    CriterionValues: [NaN 0.4102 0.2991 0.2923 0.2943 0.3042 0.2986 0.2924 0.3376 0.3333]
+           OptimalK: 2
+
+  iter	 phase	     num	         sum
+     1	     1	     100	     19.5288
+     2	     1	      12	     18.4544
+     3	     1	      11	     17.8319
+     4	     1	       6	     17.4631
+     5	     1	       1	     17.4375
+Best total sum of distances = 17.4375
