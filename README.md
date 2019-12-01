@@ -16,7 +16,7 @@ Generated Song Analysis file contains all the analysis of the generated songs an
 
 ### We would like to thank the following people for their code:
 
-Max Woolf [minimaxir](https://github.com/minimaxir) whose [text generating neural network](https://github.com/minimaxir/textgenrn) we used.
+Max Woolf [minimaxir](https://github.com/minimaxir) whose [text generating neural network](https://github.com/minimaxir/textgenrnn) we used.
 
 Michael Phillips [mphilli](https://github.com/mphilli) whose [phonetic alphabet converter](https://github.com/mphilli/English-to-IPA) we modified.
 
