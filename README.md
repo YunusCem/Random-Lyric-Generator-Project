@@ -22,4 +22,4 @@ Michael Phillips [mphilli](https://github.com/mphilli) whose [phonetic alphabet 
 
 Kemal Burcak Kaplan [kaplanbr](https://github.com/kaplanbr) whose [markov lyric generator](https://github.com/kaplanbr/Serdar-Ortac-Lyrics-Generator) we heavily drew from.
 
-Mohammed Ma'amari whose [LSTM model](https://towardsdatascience.com/@mamarih1) we also drew from (but did not end up using for the final project).
+Mohammed Ma'amari [mamarih1](https://towardsdatascience.com/@mamarih1) whose [LSTM model](https://towardsdatascience.com/ai-generates-taylor-swifts-song-lyrics-6fd92a03ef7e) we also drew from (but did not end up using for the final project).
