@@ -1,4 +1,5 @@
 # Final Project for EECE 5644
+## Created by Kerem Enhoş, Muralikrishna Shanmugasundaram, William Varner and Yunus Cem Yılmaz
 
 ## The repository is formed in the following fashion:
 
